@@ -90,11 +90,11 @@ body {
 }
 
 .player-side::before {
-    content: 'VOCÊ';
+    content: 'EU';
 }
 
 .computer-side::before {
-    content: 'COMPUTADOR';
+    content: 'PC';
 }
 
 .choice-display {
